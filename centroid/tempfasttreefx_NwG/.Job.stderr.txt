@@ -1,0 +1,3 @@
+Ignored unknown character B (seen 12 times)
+Ignored unknown character X (seen 15 times)
+Ignored unknown character Z (seen 4 times)
